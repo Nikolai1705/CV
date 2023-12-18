@@ -1,0 +1,148 @@
+
+
+.name {
+    font-size: 50px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 15px;
+    padding: 5px;
+}
+
+.bio {
+    margin: 0;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: purple;
+}
+
+.info {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.socials {
+    display: flex;
+}
+
+.git {
+    display: flex;
+    left: 37px;
+    position: relative;
+    height: 17px;
+}
+
+.dribble {
+    position: relative;
+    left: 80px;
+}
+
+.in {
+    height: 17px;
+    display: flex;
+}
+
+.union {
+    height: 17px;
+}
+
+.face-pic {
+    display: flex;
+    position: relative;
+    left: 70%;
+    bottom: 220px;
+    width: 170px;
+    height: 170px;
+}
+
+.border {
+    
+    margin: 1rem;
+    padding: 2rem 2rem;
+    text-align: center;
+    font-size: large;
+    font: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -145px;
+}
+
+.rotation-e {
+    display: inline-block;
+    padding: 1rem 1rem;
+    text-align: start;
+    float: left;
+    margin-left: -55px;
+}
+
+.rotation-s {
+    display: inline-block;
+    padding: 1rem 1rem;
+    max-width: 450px;
+    text-align: start;
+    ;
+}
+
+.exp {
+    text-align: start;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.pink-text {
+    color: purple ;
+}
+
+.grey-text {
+    color: grey;
+}
+
+.inv-text {
+    color: grey;
+    opacity: 50%;
+}
+
+.line {
+    color: grey
+}
+
+.formation {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 35px;
+    line-height: 35px;
+}
+
+.formation2 {
+    padding-top: 10px;
+    line-height: 35px;
+}
+
+.lang {
+    display: inline-block;
+    padding: 1rem 1rem;
+    max-width: 450px;
+    text-align: start;
+    padding-left: 0px;
+    line-height: 10px;
+    padding-top: 70px;
+}
+
+.proj {
+    display: inline-block;
+    padding: 1rem 1rem;
+    max-width: 450px;
+    text-align: start;
+    padding-left: 0px;
+    padding-top: 70px;
+}
+
+.link {
+    color: black;
+    display: flex;
+    align-items: center;
+}
+
+.par {
+    margin-top: 10px;
+}
+
+.linkimg {
+    height: 17px;
+    display: flex;
+}
